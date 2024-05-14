@@ -19,9 +19,7 @@
 ### :man_technologist: About Me :
 
 I am a Python Backend Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl3d3djZTdhdTczMHAzcmFqMGhkb21oM29oaWgzeTd5aGUwNG0waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="40"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I’m contributing to the backend to build web applications.
 
 - :zap: In my free time, I solve problems on LeetCode.com and read tech articles.
 
